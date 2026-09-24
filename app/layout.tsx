@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'adwise. — AI advertising intelligence',
+  description: 'Manage, optimize, and grow your Meta advertising with an AI-powered workspace.',
   generator: 'v0.app',
   icons: {
     icon: [
